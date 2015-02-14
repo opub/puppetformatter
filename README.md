@@ -23,4 +23,4 @@ This was originally just going to be a Go port of [Puppet::Tidy](http://puppetla
 
 ## License
 
-See [LICENSE](https://github.com/opub/puppetformatter/LICENSE).
+See [LICENSE](https://github.com/opub/puppetformatter/blob/master/LICENSE).
